@@ -7,7 +7,7 @@
 ## Aluno
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
+| Jorge Douglas Andrade steel | 202268928 | JDouglassteel |
 |  |  |  |
 
 ## O cenário
